@@ -1,4 +1,4 @@
-# AgentGuard
+# AgentGuard DKBK
 
 **AI Agent Governance Kernel — Trust, Approvals, Audit**
 
@@ -259,18 +259,16 @@ history = engine.get_history("agent-123")
 
 ## Why AgentGuard
 
-Why AgentGuard
-
-Feature                         AgentGuard     DIY Setup      Other Tools
-------------------------------------------------------------------------
-Trust decay prevention          Built-in      You must build  Not available
-Capability tokens               Built-in      You must build  Not available
-Human approval gate             Built-in      Custom build    Partial / manual
-Real-time event stream          Built-in      Custom build    Limited
-Audit trail                     Built-in      Custom build    Partial
-Drop-in kernel                  Yes           No              No
-Open source                     Yes           Depends         Depends
-Setup time                     ~5 minutes     Weeks           Days
+| | AgentGuard | DIY | Other tools |
+|---|---|---|---|
+| Trust decay | ✅ | Build it | ❌ |
+| Capability tokens | ✅ | Build it | ❌ |
+| Human approval gate | ✅ | Build it | Partial |
+| Real-time event stream | ✅ | Build it | ❌ |
+| Audit trail | ✅ | Build it | Partial |
+| Drop-in kernel | ✅ | — | ❌ |
+| Open source | ✅ | — | ❌ |
+| Setup time | 5 min | Weeks | Days |
 
 ---
 
@@ -321,5 +319,4 @@ Built while trying to build something else entirely — which is how the best in
 
 ---
 
-*If AgentGuard saved your team from a 3am incident, give it a ⭐*
-email me if u want the sauce : bkdk62309@gmail.com
+*If AgentGuard saved your team from a 3am incident, give it a ⭐* drop me some $$ as i saved ur ass email me bkdk62309@gmail.com
