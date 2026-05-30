@@ -74,7 +74,7 @@ Every action, every decision, every trust change — immutably logged with actor
 
 ```bash
 # Clone
-git clone https://github.com/dheerajkumar/agentguard
+git clone (https://github.com/Mangomindai/dkbk-kernel)
 cd agentguard
 
 # Install
