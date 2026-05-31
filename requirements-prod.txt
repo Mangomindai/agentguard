@@ -1,6 +1,0 @@
-flask-sqlalchemy
-alembic
-psycopg2-binary
-redis
-hiredis
-gunicorn
