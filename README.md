@@ -2,6 +2,9 @@
 
 **AI Agent Governance Kernel — Trust, Approvals, Audit**
 
+If your agent can break this — 
+it better be good at breaking Bitcoin.
+
 > *"Your AI agents are only as safe as the system governing them."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
