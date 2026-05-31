@@ -320,4 +320,4 @@ Built while trying to build something else entirely — which is how the best in
 
 ---
 
-*If AgentGuard saved your team from a 3am incident, give it a ⭐* drop me some $$ as i saved ur ass email me bkdk62309@gmail.com
+*If AgentGuard saved your team from a 3am incident, give it a ⭐*  bkdk62309@gmail.com
