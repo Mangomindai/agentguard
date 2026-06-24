@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![PyPI](https://img.shields.io/pypi/v/agentguard-kernel.svg)](https://pypi.org/project/agentguard-kernel/)
-
+The updated version is here https://github.com/Mangomindai/shiva-sdk and if you want to test your agent it is live here https://shiva-353779617017.europe-west2.run.app/ and you can test your agent. 1000 evals for 1 agent. 3 agents free. come and try and test. it free
 ---
 
 ## Install
